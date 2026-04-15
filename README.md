@@ -3,7 +3,7 @@
 A simple and interactive task management application built using HTML, CSS, and JavaScript.
 
 ## Live Demo
-warm-malasada-970a5b.netlify.app
+https://warm-malasada-970a5b.netlify.app
 
 ## Features
 - Add new tasks
