@@ -1,22 +1,27 @@
-# Task Manager App
+# Task Manager Web Application
 
-A simple and interactive task management web application built using HTML, CSS, and JavaScript.
+A simple and interactive task management application built using HTML, CSS, and JavaScript.
+
+## Live Demo
+https://your-netlify-link.netlify.app
 
 ## Features
 - Add new tasks
 - Delete tasks
 - Mark tasks as completed
-- Data persistence using local storage
+- Persistent storage using localStorage
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 
-## Purpose
-This project was built to practice JavaScript fundamentals, DOM manipulation, and handling user input in a web application.
+## Key Learnings
+- DOM manipulation and event handling
+- Managing application state using local storage
+- Building interactive user interfaces
 
 ## Future Improvements
-- Add edit functionality
-- Add backend support (Node.js)
-- Improve UI/UX design
+- Edit task functionality
+- Backend integration (Node.js)
+- User authentication
